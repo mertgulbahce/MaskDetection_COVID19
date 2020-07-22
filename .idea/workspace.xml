@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="44ac4e22-0104-475f-b182-ac3782e490fd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="0ecefc53-c02e-458a-8c8f-d55d090a47bc" />
+  <component name="ProjectId" id="1cxc7WF2bXZxRfiSpAjaaOPE2XP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Proje2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MaskDetection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Proje2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="MaskDetection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Proje2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44ac4e22-0104-475f-b182-ac3782e490fd" name="Default Changelist" comment="" />
+      <created>1591473517639</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591473517639</updated>
+      <workItem from="1591473520184" duration="5933000" />
+      <workItem from="1591695212002" duration="4061000" />
+      <workItem from="1591735978472" duration="623000" />
+      <workItem from="1591736624405" duration="659000" />
+      <workItem from="1591737302997" duration="2680000" />
+      <workItem from="1591747616043" duration="101000" />
+      <workItem from="1591747756444" duration="138000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="502" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591736638076">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="502" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1591736638076" />
+    <state width="1493" height="642" key="GridCell.Tab.0.bottom" timestamp="1591747200454">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="642" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591747200454" />
+    <state width="1493" height="642" key="GridCell.Tab.0.center" timestamp="1591747200454">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="642" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591747200454" />
+    <state width="1493" height="642" key="GridCell.Tab.0.left" timestamp="1591747200454">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="642" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591747200454" />
+    <state width="1493" height="642" key="GridCell.Tab.0.right" timestamp="1591747200454">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="642" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591747200454" />
+    <state x="4" y="0" width="1532" height="824" key="SettingsEditor" timestamp="1591737272025">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="4" y="0" width="1532" height="824" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1591737272025" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1591747756461">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1591747756461" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MaskDetection$Proje2.coverage" NAME="Proje2 Coverage Results" MODIFIED="1591737729059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
